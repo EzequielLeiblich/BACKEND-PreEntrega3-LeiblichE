@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "title": "Agua",
+        "description": "Agua en botella",
+        "price": 150,
+        "thumbnail": "https://static.vecteezy.com/system/resources/previews/003/113/983/original/water-splash-from-a-plastic-bottle-free-photo.jpg",
+        "code":"#001",
+        "stock": 150
+    },
+    
+    {
+        "id": 2,
+        "title": "Chocolate",
+        "description": "Chocolate en barra",
+        "price": 350,
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/95/Cadbury-Bournville.jpg",
+        "code":"#002",
+        "stock": 100
+    },
+    
+    {
+        "id": 3,
+        "title": "Refresco",
+        "description": "Refresco sabor naranja",
+        "price": 250,
+        "thumbnail":"https://cdn.shopify.com/s/files/1/0305/2031/1947/products/miranda_700x.jpg?v=1593090113",
+        "code":"#003",
+        "stock": 100
+    }
+]
